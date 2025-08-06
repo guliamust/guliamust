@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am a certified Data Analyst with a valuable history in sales & marketing domains.
+I have a demonstrated ability to drive revenue, deliver data-driven solutions, and improve team efficiency. My strong communication skills, digital competence, and educational background position me well for demanding analytical roles.
 <!--
 **guliamust/guliamust** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
